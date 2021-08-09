@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Welcome_page</string>
+    <string name="desc">In this app you can learn how to implement welcome page in android studio</string>
+</resources>
